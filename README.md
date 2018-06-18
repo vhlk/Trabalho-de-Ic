@@ -1,2 +1,1 @@
-# Trabalho-de-Ic
-SAT solver
+# Trabalho-Ic
